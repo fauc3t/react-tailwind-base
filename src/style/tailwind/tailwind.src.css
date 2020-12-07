@@ -1,0 +1,14 @@
+@import "./base/tw-base.css";
+@import "./base/tw-components.css";
+
+/**
+* All custom extenstions should go here before utilities 
+*/
+
+@import "./extensions/tailwind-ext.css";
+
+/**
+ End custom extensions
+*/
+
+@import "./base/tw-utilities.css";
